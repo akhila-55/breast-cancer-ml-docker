@@ -1,3 +1,0 @@
-Breast Cancer Prediction ML Application
-Run: python app.py
-Endpoint: POST /predict
